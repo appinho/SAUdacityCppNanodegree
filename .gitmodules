@@ -1,0 +1,6 @@
+[submodule "RoutePlanning"]
+	path = RoutePlanning
+	url = https://github.com/appinho/RoutePlanning
+[submodule "SystemMonitor"]
+	path = SystemMonitor
+	url = https://github.com/appinho/SystemMonitor
