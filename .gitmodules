@@ -4,3 +4,6 @@
 [submodule "SystemMonitor"]
 	path = SystemMonitor
 	url = https://github.com/appinho/SystemMonitor
+[submodule "MemoryManagementChatbot"]
+	path = MemoryManagementChatbot
+	url = https://github.com/appinho/MemoryManagementChatbot
