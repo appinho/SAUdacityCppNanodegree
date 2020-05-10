@@ -12,3 +12,7 @@ Collection of all projects of Udacity's C++ Nanodegree
 ## 3 Memory Management Chatbot
 
 <img src="images/chatbot_demo.png" width="300" height="450" />
+
+## 4 Concurrent Traffic Simulation Project
+
+<img src="images/traffic_simulation.gif" width="600" height="450" />
