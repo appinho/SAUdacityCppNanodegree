@@ -1,3 +1,0 @@
-/home/ANT.AMAZON.COM/sappel/experimental/C++Nanodegree/SAUdacityCppNanodegree/MemoryManagementChatbot/build/CMakeFiles/rebuild_cache.dir
-/home/ANT.AMAZON.COM/sappel/experimental/C++Nanodegree/SAUdacityCppNanodegree/MemoryManagementChatbot/build/CMakeFiles/edit_cache.dir
-/home/ANT.AMAZON.COM/sappel/experimental/C++Nanodegree/SAUdacityCppNanodegree/MemoryManagementChatbot/build/CMakeFiles/membot.dir

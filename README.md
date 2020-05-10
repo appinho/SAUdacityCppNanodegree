@@ -15,4 +15,4 @@ Collection of all projects of Udacity's C++ Nanodegree
 
 ## 4 Concurrent Traffic Simulation Project
 
-<img src="images/traffic_simulation.gif" width="600" height="450" />
+<img src="images/traffic_simulation.gif" width="800" height="450" />

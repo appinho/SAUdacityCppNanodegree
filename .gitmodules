@@ -7,3 +7,6 @@
 [submodule "MemoryManagementChatbot"]
 	path = MemoryManagementChatbot
 	url = https://github.com/appinho/MemoryManagementChatbot
+[submodule "ConcurrentTrafficSimulation"]
+	path = ConcurrentTrafficSimulation
+	url = https://github.com/appinho/ConcurrentTrafficSimulation
