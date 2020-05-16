@@ -10,3 +10,6 @@
 [submodule "ConcurrentTrafficSimulation"]
 	path = ConcurrentTrafficSimulation
 	url = https://github.com/appinho/ConcurrentTrafficSimulation
+[submodule "Capstone"]
+	path = Capstone
+	url = https://github.com/appinho/Capstone
