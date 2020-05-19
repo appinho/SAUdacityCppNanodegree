@@ -16,3 +16,7 @@ Collection of all projects of Udacity's C++ Nanodegree
 ## 4 Concurrent Traffic Simulation Project
 
 <img src="images/traffic_simulation.gif" width="800" height="450" />
+
+## Capstone Project - The crazy museum
+
+<img src="images/crazy_museum.gif" width="1000" height="550" />
